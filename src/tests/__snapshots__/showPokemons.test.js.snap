@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render pokemons 1`] = `
+<div>
+  <div
+    className="pokemon-card"
+  >
+    <span>
+      ditto
+    </span>
+    <img
+      alt=""
+      src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png"
+    />
+  </div>
+</div>
+`;
